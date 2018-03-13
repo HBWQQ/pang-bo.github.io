@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: pangbo2017@foxmail.com
 description: "Education"
 keyword: "hello, WORLD"
-url: "https://pang-bo.github.io/"          # your host, for absolute URL https://pang-bo.github.io/SJTUcourse.github.io/.
+url: "https://pang-bo.github.io/COURSE"          # your host, for absolute URL https://pang-bo.github.io/SJTUcourse.github.io/.
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
